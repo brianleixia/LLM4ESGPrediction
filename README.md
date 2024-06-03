@@ -56,7 +56,6 @@ If you use our datasets or models in your research, please cite our work as foll
 @inproceedings{leixiaesg2024,
   title={Using Pre-trained Language Models for Accurate ESG Prediction},
   author={Lei Xia, Mingming Yang, Qi Liu},
-  booktitle={Proceedings of the FinNLP-AgentScen-2024 Conference},
   year={2024},
   url={https://github.com/brianleixia/LLM4ESGPrediction}
 }
