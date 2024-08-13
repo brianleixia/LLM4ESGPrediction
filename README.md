@@ -1,6 +1,7 @@
 # 🌍📊 Using Pre-trained Language Models for Accurate ESG Prediction 📊🌍
 
 This repository contains the resources and methodologies developed in our research project focused on leveraging Pre-trained Language Models (PLMs) for enhanced Environmental, Social, and Governance (ESG) data prediction and classification.
+🔥News: Our paper has been published at [FinNLP2024@IJCAI](https://aclanthology.org/2024.finnlp-2.1/).
 
 ## 📄 Project Overview
 
@@ -53,10 +54,16 @@ Our innovative pipeline for dataset annotation, leveraging both keyword searches
 If you use our datasets or models in your research, please cite our work as follows:
 
 ```latex
-@inproceedings{leixiaesg2024,
-  title={Using Pre-trained Language Models for Accurate ESG Prediction},
-  author={Lei Xia, Mingming Yang, Qi Liu},
-  year={2024},
-  url={https://github.com/brianleixia/LLM4ESGPrediction}
+@inproceedings{xia-etal-2024-using,
+    title = "Using Pre-trained Language Model for Accurate {ESG} Prediction",
+    author = "Xia, Lei  and
+      Yang, Mingming  and
+      Liu, Qi",
+    booktitle = "Proceedings of the Eighth Financial Technology and Natural Language Processing and the 1st Agent AI for Scenario Planning",
+    month = "3 " # aug,
+    year = "2024",
+    address = "Jeju, South Korea",
+    url = "https://aclanthology.org/2024.finnlp-2.1",
+    pages = "1--22",
 }
 ```
