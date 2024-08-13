@@ -54,7 +54,7 @@ Our innovative pipeline for dataset annotation, leveraging both keyword searches
 
 If you use our datasets or models in your research, please cite our work as follows:
 
-```latex
+```bibtex
 @inproceedings{xia-etal-2024-using,
     title = "Using Pre-trained Language Model for Accurate {ESG} Prediction",
     author = "Xia, Lei  and
